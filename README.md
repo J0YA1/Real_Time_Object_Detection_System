@@ -1,6 +1,6 @@
 # CodeClauseInternship_Object_Detection_System
 So, here I will detect an object by training the model and applying it in the real world.
-In this I have used obeject detection using yolov5 with my own custom data which is written coco128.yaml.
+In this I have used obeject detection using yolov5 with the custom data which is written coco128.yaml.
 
 The whole is been done in google colab 
 
